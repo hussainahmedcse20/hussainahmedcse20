@@ -22,7 +22,7 @@
   <br><br>
 
   <!-- Reliable Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=hussainahmedcse20&label=Profile%20views&color=0e75b6&style=flat" alt="hussainahmedcse20" />
+  <img src="https://komarev.com/ghpvc/?username=hussainahmedcse20&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
 
 ---
@@ -53,8 +53,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainahmedcse20&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmedcse20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Alternative Reliable Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hussainahmedcse20&theme=radical" alt="GitHub Profile Details" width="80%" />
 </div>
 
 ---
