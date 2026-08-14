@@ -21,8 +21,8 @@
 
   <br><br>
 
-  <!-- Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/hussainahmedcse20/count.svg" alt="Visitor Count" />
+  <!-- Reliable Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=hussainahmedcse20&label=Profile%20views&color=0e75b6&style=flat" alt="hussainahmedcse20" />
 </div>
 
 ---
@@ -53,8 +53,8 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainahmedcse20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmedcse20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainahmedcse20&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmedcse20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
